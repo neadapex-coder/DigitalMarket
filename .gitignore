@@ -1,0 +1,11 @@
+/config/database.local.php
+.env
+.env.*
+!.env.example
+/vendor/
+/node_modules/
+/.idea/
+.DS_Store
+*.log
+
+/config/database.php
