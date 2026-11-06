@@ -9,3 +9,5 @@
 *.log
 
 /config/database.php
+
+/config/database.php
